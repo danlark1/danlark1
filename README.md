@@ -16,7 +16,7 @@ My main interests are (without any specific order):
 - Compiler Infrastructure, mostly LLVM
 - Hardware Testing and Optimizations -- CPU, RAM, Disks
 - Teaching Others
-- Work for at least 12 hours a day
+- Work for at least 12 hours a day and do the job to the end
 
 # Other resources
 
