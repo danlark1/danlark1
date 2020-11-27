@@ -16,10 +16,9 @@ My main interests are (without any specific order):
 - Compiler Infrastructure, mostly LLVM
 - Hardware Testing and Optimizations -- CPU, RAM, Disks
 - Teaching Others
-- Work for at least 12 hours a day and do the job to the end
 
 # Other resources
 
 - [My engineering blog](https://danlark.org)
 - [Telegram Channel (in Russian)](https://t.me/experimentalchill)
-- [Linkedin](https://www.linkedin.com/in/danila-kutenin-37ba20161)
+- [Linkedin](https://www.linkedin.com/in/%F0%9F%A4%93-danila-kutenin-37ba20161/)
