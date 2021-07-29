@@ -7,7 +7,7 @@ My main interests are (without any specific order):
 
 - Low Level Programming
 - Performance Optimizations
-- C/C++ (mostly) and Go
+- C/C++ (mostly), Rust and Go
 - Distributed and Storage Systems
 - Databases, Data Processing
 - Search Engines
@@ -15,7 +15,7 @@ My main interests are (without any specific order):
 - Backend Infrastructure
 - Compiler Infrastructure, mostly LLVM
 - Hardware Testing and Optimizations -- CPU, RAM, Disks
-- Teaching Others
+- Mentoring
 
 # Other resources
 
