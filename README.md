@@ -1,6 +1,6 @@
 # About me
 
-I am Danila. I work in big tech companies and currently working at Google
+I am Daniel. I work in big tech companies and currently working at Google
 doing pipeline data processing systems. Check out Dataflow and Apache Beam.
 
 My main interests are (without any specific order):
@@ -20,5 +20,3 @@ My main interests are (without any specific order):
 # Other resources
 
 - [My engineering blog](https://danlark.org)
-- [Telegram Channel (in Russian)](https://t.me/experimentalchill)
-- [Linkedin](https://www.linkedin.com/in/%F0%9F%A4%93-danila-kutenin-37ba20161/)
